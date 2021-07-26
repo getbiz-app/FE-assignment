@@ -48,3 +48,9 @@ To develop a simple phone directory app in under 45 minutes
 ## Mock up
 
 ![](./phone-directory.png)
+
+https://github.com/getbiz-app/FE-assignment/blob/main/assignment-1/phone-directory.png?raw=true
+
+## API
+
+https://raw.githubusercontent.com/getbiz-app/FE-assignment/main/assignment-1/mock-data.json
