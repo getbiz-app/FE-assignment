@@ -1,6 +1,6 @@
 # Problem statement
 
-To develop a simple reddit clone app behaviour in under 45 minutes
+To develop a simple `stack-overflow` clone app behaviour in under 45 minutes
 
 
 ## Guidelines
